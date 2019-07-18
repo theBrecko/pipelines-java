@@ -1,4 +1,4 @@
-
+[![Build Status](https://breckodev.visualstudio.com/ArmDeployment/_apis/build/status/theBrecko.pipelines-java?branchName=master)](https://breckodev.visualstudio.com/ArmDeployment/_build/latest?definitionId=4&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
